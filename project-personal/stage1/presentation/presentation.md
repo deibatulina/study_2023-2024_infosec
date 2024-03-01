@@ -2,7 +2,7 @@
 ## Front matter
 lang: ru-RU
 title: Первый этап индивидуального проекта
-subtitle: Уствновка Kali Linux на Virtual Box
+subtitle: Установка Kali Linux на Virtual Box
 author:
   - Ибатулина Д.Э.
 institute:
