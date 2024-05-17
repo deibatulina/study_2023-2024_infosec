@@ -65,7 +65,7 @@ header-includes:
 
 ## Код программы
 
-![Программный код на ЯП Python](image/1.jpg){#fig:001 width=60%}
+![Программный код на ЯП Python](image/1.jpg){#fig:001 width=55%}
 
 ## Результаты
 
